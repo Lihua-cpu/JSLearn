@@ -1,0 +1,21 @@
+# 临时编译文件
+docs/.vuepress/.temp/
+# 缓存文件
+docs/.vuepress/.cache/
+# build打包输出静态站点（部署产物，不提交源码仓库）
+docs/.vuepress/dist/
+
+# 依赖
+node_modules/
+
+# 编辑器/IDE 配置文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 编译/打包产物
+dist/
+build/
+out/
+
